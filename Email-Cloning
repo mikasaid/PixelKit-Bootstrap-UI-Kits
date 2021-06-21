@@ -1,17 +1,128 @@
-$ pkg update && upgrade
+##PixelKit UI Kits sponsored by BitBlox.me
 
-$ pkg install git
+ScreenShot
 
-$ pkg install python2
+BitBlox is a new platform when you can create your site by adding pre-made design elements called blocks. You can visit BitBlox.me and we-d love to hear your thoughts.
 
-$ pip2 install mechanize
+Links
+BitBlox Demo
+BitBlox Homepage
+BitBlox Themes
+Funky Tunes
+ScreenShot
 
-$ pip2 install requests
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/funky-tunes/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/music-ui-kit/
 
-$ pip2 install tqdm
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Skinny Frames
+ScreenShot
 
-$ git clone https://github.com/R0ZHAK/Email-Cloning
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/skinny-frames/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/modern-ui-kit/
 
-$ cd Email-Cloning
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+City Break
+ScreenShot
 
-$ python2 Run.py
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/city-break/ The complete Bootstrap UI kit that contains tons of additional elements spread across 5 categories is available on PixelKit.com http://pixelkit.com/kits/hotel-ui-kit/
+
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Chubby Stacks
+ScreenShot
+
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/chubby-stacks/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/fresh-ui-kit/
+
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Sweet Candy
+ScreenShot
+
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/sweet-candy/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/colorful-ui-kit/
+
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Arctic Sunset
+ScreenShot
+
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/arctic-sunset/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/clean-ui-kit/
+
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Dark Velvet
+ScreenShot
+
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/dark-velvet/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/dark-ui-kit/
+
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Vanilla Cream
+ScreenShot
+
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/vanilla-cream/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/light-ui-kit/
+
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Metro Vibes
+ScreenShot
+
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/metro-vibes/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/metro-ui-kit/
+
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Modern Touch
+ScreenShot
+
+To get started check out our free sample demo http://pixelkit.com/free-ui-kits/modern-touch/ The complete Bootstrap UI kit that contains tons of additional elements spread across 6 categories is available on PixelKit.com http://pixelkit.com/kits/flat-ui-kit/
+
+Links
+Demo page
+Documentation page
+Premium Version of this UI Kit
+Changelog
+1.9 Added new kit Funky Tunes.
+1.8 Added new kit Skinny Frames.
+1.7 Added new kit City Break.
+1.6 Added new kit Chubby Stacks.
+1.5 Added new kit Sweet Candy.
+1.4 Added new kit Arctic Sunset.
+1.3 Added new kit Dark Velvet.
+1.2 Added new kit Vanilla Cream.
+1.1 Added new kit Metro Vibes.
+1.0 First Release.
+About US
+Our Shop: http://pixelkit.com/
+
+Affiliate Program (earn money): http://pixelkit.com/affiliates/
+
+Social Media:
+
+Twitter: http://www.twitter.com/pixelkitcom
+
+Facebook: http://www.facebook.com/pixelkitcom
+
+License
+Free PixelKit Bootstrap UI Kits is licensed under a MIT License - http://opensource.org/licenses/mit-license.html.
+
+You are allowed to use these elements anywhere you want, however we’ll highly appreciate if you will link to our website when you share them - http://pixelkit.com
+
+Thanks for supporting and enjoy!
